@@ -238,8 +238,8 @@ uyan:
 
 ## 网站访客统计
 visit_counter:
-  site: false
-  page: false
+  site: true
+  page: true
 
 ## 网站访问统计分析
 
