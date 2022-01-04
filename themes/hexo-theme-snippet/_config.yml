@@ -68,8 +68,9 @@ jsonContent:
 ## 网站公告设置
 notification: |-
   <p>
-  吴师兄编程：<a href="https://www.cxyxiaowu.com/" title="吴师兄编程">吴师兄编程</a> <br/>
-  爪哇面试题：<a href="https://zwmst.com" title="爪哇面试题">爪哇面试题</a> <br/>
+  吴师兄编程：<a href="https://www.cxyxiaowu.com" title="吴师兄编程">https://www.cxyxiaowu.com</a> <br/>
+  爪哇面试题：<a href="https://zwmst.com" title="爪哇面试题">https://zwmst.com</a> <br/>
+  图片外链接：<a href="https://imgtu.com" title="图片外链接">https://imgtu.com</a> <br/>
   </p>
 
 ## 社交设置
