@@ -28,8 +28,8 @@ menu:
     icon: 
 
 
-## favicon /favicon.ico /favicon-16x16.png /favicon-32x32.png
-favicon:  /favicon-16x16.png #/favicon.ico
+## favicon /favicon.ico /favicon-16x16.png /favicon-32x32.png /favicon-lb.jpg
+favicon:  /favicon-lb.jpg #/favicon-16x16.png #/favicon.ico
 
 
 ## Feed
@@ -68,7 +68,8 @@ jsonContent:
 ## 网站公告设置
 notification: |-
   <p>
-  网站公告：<a href="#" title="网站公告">暂无公告</a> <br/>
+  吴师兄编程：<a href="https://www.cxyxiaowu.com/" title="吴师兄编程">吴师兄编程</a> <br/>
+  爪哇面试题：<a href="https://zwmst.com" title="爪哇面试题">爪哇面试题</a> <br/>
   </p>
 
 ## 社交设置
